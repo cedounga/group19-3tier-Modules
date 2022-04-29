@@ -1,0 +1,5 @@
+instance_type = "t2.micro"
+ami ="ami-0d5eff06f840b45e9"
+azsa ="us-east-1a"
+azsb ="us-east-1b"
+cidr = "10.0.0.0/16"
